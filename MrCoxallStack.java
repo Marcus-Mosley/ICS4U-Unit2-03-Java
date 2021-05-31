@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.EmptyStackException;
 
 /**
 * This class creates an integer stack.
